@@ -35,7 +35,7 @@
 
 /********************* Shopping Demo-9 **********************/
 
-#clothingnav1 { display: flex; justify-content: space-between; }
+#clothingnav1 { display:flex; justify-content: space-between; }
 #clothingnav1 li a.nav-link{ border-radius: 50px; background: #827C7C; color: #fff}
 #clothingnav1 li a.active{ background: #827C7C}
 #clothingnav1 li a.nav-link:hover{background: #000}
